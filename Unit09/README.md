@@ -21,7 +21,15 @@ You can use "super.method_name()" in a subclass to call a method in the supercla
 ### Video 2
 No notes
 ## 9.5 - Creating References Using Inheritance Hierarchies
-
+### Video 1
+An item of a superclass can use the constuctors of a subclass. Useful for ArrayLists of superclasses that have subclasses.
+### Video 2
+No notes
 ## 9.6 - Polymorphism
-
+### Video 1
+No notes
+### Video 2
+No notes
+### Video 3
+No notes
 ## 9.7 - Object Superclass

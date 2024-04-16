@@ -33,3 +33,7 @@ No notes
 ### Video 3
 No notes
 ## 9.7 - Object Superclass
+### Video 1
+No notes
+### Video 2
+No notes

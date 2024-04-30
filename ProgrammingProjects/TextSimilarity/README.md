@@ -1,8 +1,16 @@
 # Text Similarity
 
+<<<<<<< HEAD
 In this assignment we will explore the Apache Commons Text library to measure the similarity between two pieces of text.
 
 There are many ways to measure how similar two pieces of text are. In this assignment we will explore two algorithms: the [Levenshtein distance](https://commons.apache.org/proper/commons-text/apidocs/org/apache/commons/text/similarity/LevenshteinDistance.html) and the [Fuzzy score](https://commons.apache.org/proper/commons-text/apidocs/org/apache/commons/text/similarity/FuzzyScore.html).
+=======
+There are many ways to measure how similar two pieces of text are. In this assignment we will explore two algorithms: the Levenshtein distance and the Fuzzy score. We will use the Apache Commons Text library to do this.
+
+The `Utils.java` is a place to store any code (as static methods) that you want to re-use between the different parts of the assignments.
+
+## Getting used to the library
+>>>>>>> 66edaeaecb14c01d5cd77ea8a7dd91e7073da53a
 
 1. `GettingStarted.java`
 
